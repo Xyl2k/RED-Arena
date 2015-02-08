@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>Xyl Playlist</title>
+    <creator>Xyl</creator>
+    <link>http://redcrew.astalavista.ms/</link>
+    <info>Playlist</info>
+    <image>covers/tracklist.jpg</image>
+
+    <trackList>
+        
+        <track>
+          <location>brokenhearth.mp3</location>
+          <creator>4mat</creator>
+          <album>Tokyo Demo Fest 2011 - Pirates of the 777 seas by Razor 1911</album>
+          <title>4mat - Broken Hearth (2011)</title>
+          <annotation>I love this song</annotation>
+          <duration>10510</duration>
+          <image>covers/razor.jpg</image>
+          <info></info>
+          <link>http://www.pouet.net/prod.php?which=56549</link>
+        </track>
+
+    </trackList>
+</playlist>
